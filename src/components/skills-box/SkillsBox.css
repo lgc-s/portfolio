@@ -1,0 +1,40 @@
+.SkillsBox {
+    align-items: center;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    height: 128px;
+    justify-content: center;
+    margin: 16px 8px;
+    width: 128px;
+}
+  
+.SkillsBox:hover {
+    background-color: rgba(255, 255, 255, 0.25);
+    border: 2px solid rgba(255, 255, 255, 1);
+    transition: all 0.5s ease;
+}
+
+.SkillsBox:hover .animated-svg .black-to-gray {
+    fill: rgb(76, 76, 76);
+    transition: fill 0.5s ease;
+}
+
+.SkillsBox:hover h3 {
+    color: white;
+    transition: all 0.5s ease;
+}
+  
+.SkillsBox h3 {
+    margin-top: 4px;
+}
+
+@media (max-width: 768px) {
+    .SkillsBox {
+        height: 72px;
+        margin: 8px;
+        padding: 8px;
+        width: 72px;
+    }
+}

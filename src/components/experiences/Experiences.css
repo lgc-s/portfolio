@@ -1,0 +1,41 @@
+.ExpBox {
+    margin: 32px;
+}
+
+.ExpContainer {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.ExpContainer h2 {
+    color: white;
+}
+
+.ExperiencesContent {
+    width: 100%;
+}
+
+.ExperiencesImage {
+    margin: 16px 8px 8px 8px;
+    width: 128px;
+}
+
+.ExpInfo {
+    width: 30%;
+}
+
+.ExpTitle {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 768px) {
+    .ExpBox {
+        margin: 16px;
+    }
+    .ExpInfo {
+        width: 100%;
+    }
+}

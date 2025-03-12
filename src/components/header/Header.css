@@ -1,0 +1,21 @@
+.Header {
+    align-items: center;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 16px;
+}
+
+.Logo {
+    user-select: none;
+}
+
+@media (max-width: 768px) {
+    .Header {
+        padding-top: 16px;
+    }
+    .Logo {
+        margin-bottom: 12px;
+    }
+}

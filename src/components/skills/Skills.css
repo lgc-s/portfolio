@@ -1,0 +1,11 @@
+.Skills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.SkillsContent {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}

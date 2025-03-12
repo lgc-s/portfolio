@@ -1,0 +1,36 @@
+.Chevron {
+    fill: white;
+    width: 24px;
+    height: 24px;
+}
+
+.TopAnchor {
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.9);
+    border: 2px solid white;
+    border-radius: 100%;
+    bottom: 0px;
+    display: flex;
+    height: 48px;
+    justify-content: center;
+    margin: 32px;
+    position: fixed;
+    right: 0px;
+    width: 48px;
+}
+
+.TopAnchor:hover {
+    background-color: white;
+    transition: all 0.5s ease;
+}
+
+.TopAnchor:hover .Chevron {
+    fill: black;
+    transition: all 0.5s ease;
+}
+
+@media (max-width: 768px) {
+    .TopAnchor {
+        margin: 16px;
+    }
+}

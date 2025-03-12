@@ -1,0 +1,42 @@
+<svg
+   viewBox="-11.5 -10.23174 23 20.511088"
+   width="64"
+   height="64"
+   id="svg"
+   class="animated-svg"
+>
+   <title id="react">React Logo</title>
+   <circle
+      cx="0"
+      cy="0.023803048"
+      r="2.05"
+      fill="#ffffff"
+   />
+   <g
+      stroke="#ffffff"
+      stroke-width="1"
+      fill="none"
+      transform="translate(0, 0.02380305)"
+   >
+   <ellipse
+      rx="11"
+      ry="4.2"
+      cx="0"
+      cy="0"
+   />
+   <ellipse
+      rx="11"
+      ry="4.2"
+      cx="0"
+      cy="0"
+      transform="rotate(60)"
+   />
+   <ellipse
+      rx="11"
+      ry="4.2"
+      cx="0"
+      cy="0"
+      transform="rotate(120)"
+    />
+  </g>
+</svg>

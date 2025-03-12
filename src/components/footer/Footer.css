@@ -1,0 +1,12 @@
+.Footer {
+    align-items: center;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    height: 128px;
+    justify-content: center;
+}
+
+.FooterText {
+    margin: 16px 8px 0px 8px;
+}

@@ -1,0 +1,24 @@
+.Contact {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.ContactContent {
+    width: 100%;
+}
+
+.ContactDescription {
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+
+.Contact h2 {
+    color: white;
+}
+
+.Icon {
+    border-radius: 0px;
+    margin-right: 8px;
+    width: 24px;
+}

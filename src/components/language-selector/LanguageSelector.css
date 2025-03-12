@@ -1,0 +1,26 @@
+.EnglishTrue {
+    color: white;
+}
+
+.LanguageButton {
+    background-color: black;
+    margin: 4px;
+}
+
+.Languages {
+    display: flex;
+    flex-direction: column;
+}
+
+.PortugueseTrue {
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .LanguageButton {
+        margin-top: 16px;
+    }
+    .Languages {
+        flex-direction: row;
+    }
+}

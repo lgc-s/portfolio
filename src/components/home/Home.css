@@ -1,0 +1,23 @@
+.Home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 32px;
+    width: 60%;
+}
+
+.Lgcs {
+    border-radius: 100%;
+    height: 300px;
+    margin: auto;
+}
+
+@media (max-width: 768px) {
+    .Home {
+        width: fit-content;
+    }
+    .Lgcs {
+        height: 144px;
+        margin-top: 16px;
+    }
+}

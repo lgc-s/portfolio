@@ -1,0 +1,13 @@
+.MenuTab {
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 8px;
+}
+
+@media (max-width: 768px) {
+    .MenuTab {
+        padding: 0px;
+    }
+}
