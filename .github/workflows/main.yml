@@ -30,7 +30,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://lgc-s.github.io/portfolio/
     runs-on: ubuntu-latest
     needs: cleanup
     steps:
