@@ -1,6 +1,6 @@
 <svg
-   viewBox="0 0 27.262582 10.5"
-   width="144"
+   viewBox="0 0 41 12"
+   width="192"
    height="44"
    id="svg1"
 >
@@ -9,14 +9,14 @@
    >
          <tspan
          id="tspan1"
-         x="-3.782012"
-         y="10.026641"
+         x="0"
+         y="11"
          fill="#ffffff"
          font-weight="600"
-         font-size="13.3333px"
+         font-size="14px"
          font-family="URW Gothic"
          >
-            LGCS
+            LGC-S
          </tspan>
       </text>
 </svg>
