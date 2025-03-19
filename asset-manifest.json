@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e01daf35.css",
-    "main.js": "/portfolio/static/js/main.1d40dd34.js",
-    "static/media/home.jpg": "/portfolio/static/media/home.27667eaa508e68ad12b5.jpg",
-    "static/media/projects.jpg": "/portfolio/static/media/projects.dcd7b947829dc297fd4a.jpg",
-    "static/media/about.jpg": "/portfolio/static/media/about.521d11e357393e39e927.jpg",
-    "static/media/contact.jpg": "/portfolio/static/media/contact.4b4ce0aa96a36cf6f88f.jpg",
-    "static/media/games.png": "/portfolio/static/media/games.1e0ef58d53d81fb68ad3.png",
-    "static/media/experiences.jpg": "/portfolio/static/media/experiences.24779eaea3c9a787f399.jpg",
-    "static/media/skills.jpg": "/portfolio/static/media/skills.0a8f24f4b4dabac38f4f.jpg",
+    "main.css": "/portfolio/static/css/main.6e651231.css",
+    "main.js": "/portfolio/static/js/main.544b0944.js",
+    "static/media/home.jpg": "/portfolio/static/media/home.5d246849da7799a1874d.jpg",
+    "static/media/contact.jpg": "/portfolio/static/media/contact.6aabcb93a849b0788089.jpg",
+    "static/media/experiences.jpg": "/portfolio/static/media/experiences.8cb10c51844f50dfbdc1.jpg",
+    "static/media/skills.jpg": "/portfolio/static/media/skills.a6cb8b59c819bdffbcfa.jpg",
+    "static/media/about.jpg": "/portfolio/static/media/about.2241ef4a0542525480fe.jpg",
     "static/media/newvia.png": "/portfolio/static/media/newvia.425a0e9abc03b19cbdbf.png",
+    "static/media/games.png": "/portfolio/static/media/games.b2912f0a4d47b741646d.png",
     "static/media/climatech.png": "/portfolio/static/media/climatech.6e4b7a20acbaa3b99e31.png",
-    "static/media/especivia.png": "/portfolio/static/media/especivia.d9e1a1cc6d2671b8b413.png",
-    "static/media/ete.png": "/portfolio/static/media/ete.69333fae5b161588f2a1.png",
-    "static/media/lgcs.jpeg": "/portfolio/static/media/lgcs.468bb19bc786c876af3d.jpeg",
+    "static/media/projects.jpg": "/portfolio/static/media/projects.8e80bcd4588e658c9898.jpg",
+    "static/media/especivia.png": "/portfolio/static/media/especivia.e082761bd761bebe5844.png",
+    "static/media/lgcs.jpeg": "/portfolio/static/media/lgcs.e16187fbf738f560480a.jpeg",
     "static/media/excel.svg": "/portfolio/static/media/excel.205854a17e4836b47e73f558f7786a09.svg",
     "static/media/svg.svg": "/portfolio/static/media/svg.8dd867e37d08478ef1d4a9c2679e7633.svg",
     "static/media/css.svg": "/portfolio/static/media/css.e11b26d6d2fe90a275f1b7273459bb66.svg",
@@ -24,11 +23,11 @@
     "static/media/react.svg": "/portfolio/static/media/react.d8af6d5659a4961b520abd6537994abb.svg",
     "index.html": "/portfolio/index.html",
     "static/media/logo.svg": "/portfolio/static/media/logo.377b266b0e5c7c62c2777f6289f49578.svg",
-    "main.e01daf35.css.map": "/portfolio/static/css/main.e01daf35.css.map",
-    "main.1d40dd34.js.map": "/portfolio/static/js/main.1d40dd34.js.map"
+    "main.6e651231.css.map": "/portfolio/static/css/main.6e651231.css.map",
+    "main.544b0944.js.map": "/portfolio/static/js/main.544b0944.js.map"
   },
   "entrypoints": [
-    "static/css/main.e01daf35.css",
-    "static/js/main.1d40dd34.js"
+    "static/css/main.6e651231.css",
+    "static/js/main.544b0944.js"
   ]
 }
