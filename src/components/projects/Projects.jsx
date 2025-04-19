@@ -48,7 +48,7 @@ export default function Projects() {
                                         <img src={climatech} alt="climatech" />
                                         <div>
                                             <Infobox>
-                                                <h3>In my first freelance job, using skills to repair some graphics problems that <a href="https://climatechbr.com/">Climatech</a>, a local company of air conditioning repair had, making the already made site stable again.</h3>
+                                                <h3>In my first freelance job, using skills to adjust some graphics problems that <a href="https://climatechbr.com/">Climatech</a>, a local company of air conditioning repair had, making the already made site stable again.</h3>
                                             </Infobox>
                                         </div>
                                     </div>
@@ -59,7 +59,7 @@ export default function Projects() {
                                         <img src={newvia} alt="climatech" />
                                         <div>
                                             <Infobox>
-                                                <h3>After the first freelance job, this freelance job was the first major showcase of the skills, with the entire site of this local company of technical assistance on computers being fully remade from zero on programming, with the new design being made by <a href="https://www.linkedin.com/in/phc-s/">Pedro Henrique Costa Silva</a>, even in the footer, there is a special thanks for the work was made with my username.</h3>
+                                                <h3>This freelance job was the first major showcase of the skills, with the entire site of this local company of technical assistance on computers being fully remade from zero on programming, with the new design being made by <a href="https://www.linkedin.com/in/phc-s/">Pedro Henrique Costa Silva</a>, even in the footer, there is a special thanks for the work was made with my username.</h3>
                                             </Infobox>
                                         </div>
                                     </div>
@@ -112,7 +112,7 @@ export default function Projects() {
                                         <img src={climatech} alt="climatech" />
                                         <div>
                                             <Infobox>
-                                                <h3>No meu primeiro trabalho freelancer, usei minhas habilidades para consertar alguns problemas gráficos que a <a href="https://climatechbr.com/">Climatech</a>, uma empresa local de conserto de ar condicionado tinha, deixando o site já pronto estável novamente.</h3>
+                                                <h3>No meu primeiro trabalho freelancer, usei minhas habilidades para ajustar alguns problemas gráficos que a <a href="https://climatechbr.com/">Climatech</a>, uma empresa local de conserto de ar condicionado tinha, deixando o site já pronto estável novamente.</h3>
                                             </Infobox>
                                         </div>
                                     </div>
@@ -123,7 +123,7 @@ export default function Projects() {
                                         <img src={newvia} alt="climatech" />
                                         <div>
                                             <Infobox>
-                                                <h3>Depois do primeiro trabalho freelancer, este trabalho freelancer foi a primeira grande vitrine das minhas habilidades, com todo o site desta empresa local de assistência técnica em computadores sendo totalmente refeito do zero na programação, com o novo design sendo feito por <a href="https://www.linkedin.com/in/phc-s/">Pedro Henrique Costa Silva</a>, inclusive no rodapé, há um agradecimento especial pelo trabalho feito com meu nome de usuário.</h3>
+                                                <h3>Este trabalho freelancer foi a primeira grande vitrine das minhas habilidades, com todo o site desta empresa local de assistência técnica em computadores sendo totalmente refeito do zero na programação, com o novo design sendo feito por <a href="https://www.linkedin.com/in/phc-s/">Pedro Henrique Costa Silva</a>, inclusive no rodapé, há um agradecimento especial pelo trabalho feito com meu nome de usuário.</h3>
                                             </Infobox>
                                         </div>
                                     </div>
