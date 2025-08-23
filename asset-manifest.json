@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.69edc048.css",
-    "main.js": "/portfolio/static/js/main.bbcd3685.js",
+    "main.css": "/portfolio/static/css/main.bcdc16e2.css",
+    "main.js": "/portfolio/static/js/main.a3f87895.js",
     "static/media/home.jpg": "/portfolio/static/media/home.5d246849da7799a1874d.jpg",
     "static/media/contact.jpg": "/portfolio/static/media/contact.6aabcb93a849b0788089.jpg",
+    "static/media/basketstar.png": "/portfolio/static/media/basketstar.b0d690aba3283465ec3e.png",
     "static/media/experiences.jpg": "/portfolio/static/media/experiences.8cb10c51844f50dfbdc1.jpg",
     "static/media/skills.jpg": "/portfolio/static/media/skills.a6cb8b59c819bdffbcfa.jpg",
     "static/media/about.jpg": "/portfolio/static/media/about.2241ef4a0542525480fe.jpg",
@@ -11,8 +12,10 @@
     "static/media/games.png": "/portfolio/static/media/games.b2912f0a4d47b741646d.png",
     "static/media/climatech.png": "/portfolio/static/media/climatech.6e4b7a20acbaa3b99e31.png",
     "static/media/projects.jpg": "/portfolio/static/media/projects.8e80bcd4588e658c9898.jpg",
+    "static/media/mulish.ttf": "/portfolio/static/media/mulish.b8bd11549c4893dee1ca.ttf",
     "static/media/especivia.png": "/portfolio/static/media/especivia.e082761bd761bebe5844.png",
-    "static/media/lgcs.jpeg": "/portfolio/static/media/lgcs.e16187fbf738f560480a.jpeg",
+    "static/media/vistadoro.png": "/portfolio/static/media/vistadoro.70b7eb06b8fb59b8c800.png",
+    "static/media/lgcs.jpeg": "/portfolio/static/media/lgcs.78d023018f8cf1c2365b.jpeg",
     "static/media/excel.svg": "/portfolio/static/media/excel.205854a17e4836b47e73f558f7786a09.svg",
     "static/media/svg.svg": "/portfolio/static/media/svg.8dd867e37d08478ef1d4a9c2679e7633.svg",
     "static/media/css.svg": "/portfolio/static/media/css.e11b26d6d2fe90a275f1b7273459bb66.svg",
@@ -22,12 +25,12 @@
     "static/media/js.svg": "/portfolio/static/media/js.24ae3554266b2aa51a43d8aca3b07236.svg",
     "static/media/react.svg": "/portfolio/static/media/react.d8af6d5659a4961b520abd6537994abb.svg",
     "index.html": "/portfolio/index.html",
-    "static/media/logo.svg": "/portfolio/static/media/logo.377b266b0e5c7c62c2777f6289f49578.svg",
-    "main.69edc048.css.map": "/portfolio/static/css/main.69edc048.css.map",
-    "main.bbcd3685.js.map": "/portfolio/static/js/main.bbcd3685.js.map"
+    "static/media/logo.svg": "/portfolio/static/media/logo.9ea0a8476df5dccb687e58b77c65efe5.svg",
+    "main.bcdc16e2.css.map": "/portfolio/static/css/main.bcdc16e2.css.map",
+    "main.a3f87895.js.map": "/portfolio/static/js/main.a3f87895.js.map"
   },
   "entrypoints": [
-    "static/css/main.69edc048.css",
-    "static/js/main.bbcd3685.js"
+    "static/css/main.bcdc16e2.css",
+    "static/js/main.a3f87895.js"
   ]
 }
