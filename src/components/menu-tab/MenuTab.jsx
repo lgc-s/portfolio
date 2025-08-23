@@ -8,7 +8,7 @@ export default function MenuTab() {
 
     if (language === "English") {
         return (
-            <div className='MenuTab'>
+            <div className='menu-tab'>
                 <MenuButton name="Home"/>
                 <MenuButton name="About Me"/>
                 <MenuButton name="Skills"/>
@@ -19,7 +19,7 @@ export default function MenuTab() {
         )
     } else if (language === "Portuguese") {
         return (
-            <div className='MenuTab'>
+            <div className='menu-tab'>
                 <MenuButton name="Início"/>
                 <MenuButton name="Sobre Mim"/>
                 <MenuButton name="Habilidades"/>

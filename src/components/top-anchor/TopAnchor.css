@@ -1,13 +1,12 @@
-.Chevron {
+.chevron {
     fill: white;
     width: 24px;
     height: 24px;
 }
 
-.TopAnchor {
+.top-anchor {
     align-items: center;
     background-color: rgba(0, 0, 0, 0.9);
-    border: 2px solid white;
     border-radius: 100%;
     bottom: 0px;
     display: flex;
@@ -19,18 +18,18 @@
     width: 48px;
 }
 
-.TopAnchor:hover {
+.top-anchor:hover {
     background-color: white;
     transition: all 0.5s ease;
 }
 
-.TopAnchor:hover .Chevron {
+.top-anchor:hover .chevron {
     fill: black;
     transition: all 0.5s ease;
 }
 
 @media (max-width: 768px) {
-    .TopAnchor {
+    .top-anchor {
         margin: 16px;
     }
 }

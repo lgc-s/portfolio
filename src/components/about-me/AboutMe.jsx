@@ -11,9 +11,9 @@ export default function AboutMe() {
     if (language === "English") {
         return (
             <div id="about">
-                <Background bg="ImgAbout">
+                <Background bg="img-about">
                     <Box>     
-                        <div className="About">
+                        <div className="about">
                             <h1>About Me</h1>
                             <Infobox><h3>I'm Luis Guilherme Costa Silva, but you can call me Luis, I'm 20 years old and i'm from Recife, Pernambuco, Brazil, where I had my entire life, I have autism spectrum disorder, also known simply as autism.</h3></Infobox>
                             <Infobox><h3>I'm always inside into the world of technology since my childhood, with an immediate passion since the first moment, from playing Adobe Flash games, Explore the world in the Google Maps, watch videos on YouTube, and discover facts and curiosities of the world on sites including Wikipedia.</h3></Infobox>
@@ -26,9 +26,9 @@ export default function AboutMe() {
     } else if (language === "Portuguese") {
         return (
             <div id="about">
-                <Background bg="ImgAbout">
+                <Background bg="img-about">
                     <Box>     
-                        <div className="About">
+                        <div className="about">
                             <h1>Sobre Mim</h1>
                             <Infobox><h3>Eu sou Luis Guilherme Costa Silva, mas pode me chamar de Luis, tenho 20 Anos e sou de Recife, Pernambuco, Brasil, onde vivi toda a minha vida. Tenho transtorno do espectro autista, também conhecido simplesmente como autismo.</h3></Infobox>
                             <Infobox><h3>Estou sempre envolvido no mundo da tecnologia desde a infância, com uma paixão imediata desde o primeiro momento, desde jogar jogos em Adobe Flash, explorar o mundo no Google Maps, assistir a vídeos no YouTube e descobrir fatos e curiosidades do mundo em sites como a Wikipédia.</h3></Infobox>

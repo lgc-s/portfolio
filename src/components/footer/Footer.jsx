@@ -8,17 +8,17 @@ export default function Footer() {
 
     if (language === "English") {
         return (
-            <div id="top" className="Footer">
-                <Logo/>
-                <h2 className="FooterText">Website made by myself - 2024-2025</h2>
+            <div id="top" className="footer">
+                <Logo className='logo'/>
+                <h3 className="footer-text">Website made by myself - 2024-2025</h3>
             </div>
         )
     }
     if (language === "Portuguese") {
         return (
-            <div id="top" className="Footer">
-                <Logo/>
-                <h2 className="FooterText">Site feito por mim - 2024-2025</h2>
+            <div id="top" className="footer">
+                <Logo className='logo'/>
+                <h3 className="footer-text">Site feito por mim - 2024-2025</h3>
             </div>
         )
     }

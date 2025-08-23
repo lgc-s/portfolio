@@ -19,19 +19,19 @@ export default function Skills() {
     if (language === "English") {
         return (
             <div id="skills">
-                <Background bg="ImgSkills">
+                <Background bg="img-skills">
                     <Box>
-                        <div className="SkillsContent">
+                        <div className="skills-content">
                             <h1>Skills</h1>
-                            <div className="Skills">
-                                <SkillsBox className="SkillButton"><ReactJs/><h3>ReactJS</h3></SkillsBox>
-                                <SkillsBox className="SkillButton"><Html/><h3>HTML</h3></SkillsBox>
-                                <SkillsBox className="SkillButton"><Css/><h3>CSS</h3></SkillsBox>
-                                <SkillsBox className="SkillButton"><Js/><h3>JS</h3></SkillsBox>
-                                <SkillsBox className="SkillButton"><Svg/><h3>SVG</h3></SkillsBox>
-                                <SkillsBox className="SkillButton"><VsCode/><h3>VS Code</h3></SkillsBox>
-                                <SkillsBox className="SkillButton"><Excel/><h3>Excel</h3></SkillsBox>
-                                <SkillsBox className="SkillButton"><CSharp/><h3>C#</h3></SkillsBox>
+                            <div className="skills">
+                                <SkillsBox className="skill-button"><CSharp/><h3>C#</h3></SkillsBox>
+                                <SkillsBox className="skill-button"><ReactJs/><h3>ReactJS</h3></SkillsBox>
+                                <SkillsBox className="skill-button"><Html/><h3>HTML</h3></SkillsBox>
+                                <SkillsBox className="skill-button"><Css/><h3>CSS</h3></SkillsBox>
+                                <SkillsBox className="skill-button"><Js/><h3>JS</h3></SkillsBox>
+                                <SkillsBox className="skill-button"><Svg/><h3>SVG</h3></SkillsBox>
+                                <SkillsBox className="skill-button"><VsCode/><h3>VS Code</h3></SkillsBox>
+                                <SkillsBox className="skill-button"><Excel/><h3>Excel</h3></SkillsBox>
                             </div>
                         </div>
                     </Box>
@@ -41,19 +41,19 @@ export default function Skills() {
     } else if (language === "Portuguese") {
         return (
             <div id="skills">
-                <Background bg="ImgSkills">
+                <Background bg="img-skills">
                     <Box>
-                        <div className="SkillsContent">
+                        <div className="skills-content">
                             <h1>Habilidades</h1>
-                            <div className="Skills">
-                                <SkillsBox className="SkillButton"><ReactJs/><h3>ReactJS</h3></SkillsBox>
-                                <SkillsBox className="SkillButton"><Html/><h3>HTML</h3></SkillsBox>
-                                <SkillsBox className="SkillButton"><Css/><h3>CSS</h3></SkillsBox>
-                                <SkillsBox className="SkillButton"><Js/><h3>JS</h3></SkillsBox>
-                                <SkillsBox className="SkillButton"><Svg/><h3>SVG</h3></SkillsBox>
-                                <SkillsBox className="SkillButton"><VsCode/><h3>VS Code</h3></SkillsBox>
-                                <SkillsBox className="SkillButton"><Excel/><h3>Excel</h3></SkillsBox>
-                                <SkillsBox className="SkillButton"><CSharp/><h3>C#</h3></SkillsBox>
+                            <div className="skills">
+                                <SkillsBox className="skill-button"><CSharp/><h3>C#</h3></SkillsBox>
+                                <SkillsBox className="skill-button"><ReactJs/><h3>ReactJS</h3></SkillsBox>
+                                <SkillsBox className="skill-button"><Html/><h3>HTML</h3></SkillsBox>
+                                <SkillsBox className="skill-button"><Css/><h3>CSS</h3></SkillsBox>
+                                <SkillsBox className="skill-button"><Js/><h3>JS</h3></SkillsBox>
+                                <SkillsBox className="skill-button"><Svg/><h3>SVG</h3></SkillsBox>
+                                <SkillsBox className="skill-button"><VsCode/><h3>VS Code</h3></SkillsBox>
+                                <SkillsBox className="skill-button"><Excel/><h3>Excel</h3></SkillsBox>
                             </div>
                         </div>
                     </Box>

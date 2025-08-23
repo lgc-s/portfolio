@@ -1,4 +1,4 @@
-.Header {
+.header {
     align-items: center;
     background-color: black;
     display: flex;
@@ -7,15 +7,20 @@
     padding: 16px;
 }
 
-.Logo {
+.logo {
     user-select: none;
+    width: 192px;
+    height: 44px;
 }
 
 @media (max-width: 768px) {
-    .Header {
+    .header {
         padding-top: 16px;
+
     }
-    .Logo {
+    .logo {
         margin-bottom: 12px;
+        width: 144px;
+        height: 33px;
     }
 }

@@ -12,10 +12,10 @@ export default function Home() {
     if (language === "English") {
         return (
             <div id="home">
-                <Background height="86vh" bg="ImgHome">
+                <Background height="86vh" bg="img-home">
                     <Box>
-                        <img src={lgcs} alt="lgcs" className="Lgcs"/>
-                        <div className="Home">
+                        <img src={lgcs} alt="lgcs" className="lgcs"/>
+                        <div className="home">
                             <h1>Front-End Developer</h1>
                             <h2>Professional and dedicated, believes in quality and aesthetic as fundamentals of Front-End Development.</h2>
                             <div>
@@ -32,10 +32,10 @@ export default function Home() {
     } else if (language === "Portuguese") {
         return (
             <div id="home">
-                <Background height="86vh" bg="ImgHome">
+                <Background height="86vh" bg="img-home">
                     <Box>
-                        <img src={lgcs} alt="lgcs" className="Lgcs"/>
-                        <div className="Home">
+                        <img src={lgcs} alt="lgcs" className="lgcs"/>
+                        <div className="home">
                             <h1>Desenvolvedor Front-End</h1>
                             <h2>Profissional e dedicado, acredita em qualidade e estética como fundamentos do Desenvolvimento Front-End.</h2>
                             <div>

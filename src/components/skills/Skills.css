@@ -1,10 +1,10 @@
-.Skills {
+.skills {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 
-.SkillsContent {
+.skills-content {
     display: flex;
     flex-direction: column;
     width: 100%;

@@ -21,22 +21,22 @@ export default function Background(props) {
     BgImg = props.bg
 
     switch (BgImg) {
-        case "Home":
+        case "home":
             BgImg = Home
             break;
-        case "About":
+        case "about":
             BgImg = About
             break;
-        case "Skills":
+        case "skills":
             BgImg = Skills
             break;
-        case "Experiences":
+        case "experiences":
             BgImg = Experiences
             break;
-        case "Projects":
+        case "projects":
             BgImg = Projects
             break;
-        case "Contact":
+        case "contact":
             BgImg = Contact
             break;
         default:
@@ -45,7 +45,7 @@ export default function Background(props) {
     }
     
     return (
-        <div className={`Background ${props.bg}`}>
+        <div className={`background ${props.bg}`}>
             {props.children}
         </div>
     );

@@ -1,41 +1,41 @@
-.ExpBox {
+.exp-box {
     margin: 32px;
 }
 
-.ExpContainer {
+.exp-container {
     align-items: center;
     display: flex;
     flex-direction: column;
 }
 
-.ExpContainer h2 {
+.exp-container h2 {
     color: white;
 }
 
-.ExperiencesContent {
+.experiences-content {
     width: 100%;
 }
 
-.ExperiencesImage {
+.experiences-image {
     margin: 16px 8px 8px 8px;
     width: 128px;
 }
 
-.ExpInfo {
+.exp-info {
     width: 30%;
 }
 
-.ExpTitle {
+.exp-title {
     align-items: center;
     display: flex;
     flex-direction: column;
 }
 
 @media (max-width: 768px) {
-    .ExpBox {
+    .exp-box {
         margin: 16px;
     }
-    .ExpInfo {
+    .exp-info {
         width: 100%;
     }
 }

@@ -1,4 +1,4 @@
-.Footer {
+.footer {
     align-items: center;
     background-color: black;
     display: flex;
@@ -7,6 +7,6 @@
     justify-content: center;
 }
 
-.FooterText {
+.footer-text {
     margin: 16px 8px 0px 8px;
 }

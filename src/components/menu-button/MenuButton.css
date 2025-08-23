@@ -1,52 +1,47 @@
-.Icons {   
+.icons {   
     fill: white;
     height: 24px;
     margin-right: 4px;
     width: 24px;
 }
 
-.MenuButton {
+.menu-button {
     align-items: center;
     background-color: black;
-    border: 2px solid white;
-    border-radius: 24px;
     display: flex;
     justify-content: center;
     margin: 6px;
     user-select: none;
-    width: 144px;
+    width: 128px;
 }
 
-.MenuButton:hover {
+.menu-button:hover {
     background-color: white;
     transition: all 0.5s ease;
 }
 
-.MenuButton:hover .Icons path {
+.menu-button:hover .Icons path {
     fill: black;
     transition: all 0.5s ease;
 }
 
-.MenuButton:hover h2 {
+.menu-button:hover h2 {
     color: black;
     transition: all 0.5s ease;
 }
 
-.MenuButton h2 {
+.menu-button h2 {
     color: white;
     font-size: 16px;
 }
 
 @media (max-width: 768px) {
-    .Icons {    
+    .icons {    
         height: 16px;
         width: 16px;
     }
-    .MenuButton {
+    .menu-button {
         margin: 3px;
         width: 128px;
-    }
-    .MenuButton h2 {
-        font-size: 12px;
     }
 }

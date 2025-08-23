@@ -10,7 +10,7 @@ import TopAnchor from "../top-anchor/TopAnchor"
 export default function Main() {
     
     return (
-        <div className="Main">
+        <div className="main">
             <Home/>
             <AboutMe/>
             <Skills/>

@@ -6,8 +6,8 @@ import { ReactComponent as Logo } from "../../images/svg/logo.svg"
 export default function Header() {
 
     return (
-        <div id="top" className="Header">
-            <Logo className='Logo'/>
+        <div id="top" className="header">
+            <Logo className='logo'/>
             <MenuTab/>
             <LanguageSelector/>
         </div>

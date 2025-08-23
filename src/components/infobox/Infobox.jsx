@@ -2,7 +2,7 @@ import "./Infobox.css"
 
 export default function Infobox(props) {
     return (
-        <div className="Infobox">
+        <div className="infobox">
             {props.children}
         </div>
     )

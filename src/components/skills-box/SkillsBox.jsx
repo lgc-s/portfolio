@@ -3,7 +3,7 @@ import "./SkillsBox.css"
 export default function SkillsBox(props) {
 
     return (
-        <div className="SkillsBox">
+        <div className="skills-box">
             {props.children}
         </div>
     )

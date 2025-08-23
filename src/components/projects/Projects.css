@@ -1,37 +1,37 @@
-.Project {
+.project {
     display: flex;
     flex-direction: column;
 }
 
-.Projects {
+.projects {
     align-items: center;
     display: flex;
     flex-direction: column;
 }
 
-.Projects img {
+.projects img {
     height: 100%;
     width: 100%;
 }
 
-.ProjectButton {
+.project-button {
     display: flex;
     flex-direction: column;
     margin: 16px;
     width: 50%;
 }
 
-.ProjectsContent h2 {
+.projects-content h2 {
     color: white;
     font-size: 21px;
 }
 
 @media (max-width: 768px) {
-    .ProjectButton {
+    .project-button {
         width: fit-content;
         margin: 0px;
     }
-    .ProjectsContent h3 {
+    .projects-content h3 {
         font-size: 12px;
     }
 }

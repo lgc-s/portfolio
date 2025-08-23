@@ -1,47 +1,47 @@
-.Background {
+.background {
     align-items: center;
     background-position: center;
     background-size: cover;
     display: flex;
     justify-content: center;
-    width: calc(var(--vw, 1vw) * 100);
+    width: 100%;
 }
 
-.ImgHome { 
+.img-home { 
     background-image: url("../../images/home.jpg");
-    height: 86vh;
+    min-height: 86vh;
 }
 
-.ImgAbout { 
+.img-about { 
     background-image: url("../../images/about.jpg");
     min-height: 50vh;
 }
 
-.ImgSkills { 
+.img-skills { 
     background-image: url("../../images/skills.jpg");
     min-height: 50vh;
 }
 
-.ImgExperiences { 
+.img-experiences { 
     background-image: url("../../images/experiences.jpg");
     min-height: 50vh;
 }
 
-.ImgProjects { 
+.img-projects { 
     background-image: url("../../images/projects.jpg");
     min-height: 50vh;
 }
 
-.ImgContact { 
+.img-contact { 
     background-image: url("../../images/contact.jpg");
     min-height: 50vh;
 }
 
 @media (max-width: 768px) {
-    .Background {
+    .background {
         width: 100vw;
     }
-    .ImgHome {
+    .img-home {
         height: 100%;
     }
 }

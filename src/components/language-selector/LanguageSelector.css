@@ -1,26 +1,26 @@
-.EnglishTrue {
+.english-true {
     color: white;
 }
 
-.LanguageButton {
+.language-button {
     background-color: black;
     margin: 4px;
 }
 
-.Languages {
+.languages {
     display: flex;
     flex-direction: column;
 }
 
-.PortugueseTrue {
+.portuguese-true {
     color: white;
 }
 
 @media (max-width: 768px) {
-    .LanguageButton {
+    .language-button {
         margin-top: 16px;
     }
-    .Languages {
+    .languages {
         flex-direction: row;
     }
 }

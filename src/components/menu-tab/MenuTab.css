@@ -1,4 +1,4 @@
-.MenuTab {
+.menu-tab {
     background-color: black;
     display: flex;
     flex-wrap: wrap;
@@ -7,7 +7,7 @@
 }
 
 @media (max-width: 768px) {
-    .MenuTab {
+    .menu-tab {
         padding: 0px;
     }
 }

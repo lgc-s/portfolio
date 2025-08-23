@@ -1,5 +1,11 @@
+@font-face {
+    font-family: Mulish;
+    src: url(../src/fonts/mulish.ttf);
+}
+
 a {
   color: rgba(255, 255, 255, 1);
+  font-family: Mulish;
   text-decoration: none; 
 }
 
@@ -22,10 +28,11 @@ button {
 h1 {
   display: flex;
   flex-wrap: wrap;
+  font-family: Mulish;
   color: white;
   margin: 0;
   padding: 0;
-  font-size: 24px;
+  font-size: 27px;
   border-bottom: 2px solid rgb(255, 255, 255, 0.6);
 }
 
@@ -33,7 +40,8 @@ h2 {
   margin-top: 8px;
   margin-bottom: 8px;
   padding: 0;
-  font-size: 18px;
+  font-family: Mulish;
+  font-size: 21px;
   color: rgb(255, 255, 255, 0.6);
 }
 
@@ -44,28 +52,30 @@ h2:hover {
 
 h3 {
   color: rgb(255, 255, 255, 0.6);
+  font-family: Mulish;
   margin: 0;
   padding: 0;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 h3:hover {
   color: rgb(255, 255, 255);
+  font-family: Mulish;
   transition: color 0.5s ease;
 }
 
 h4 {
   display: flex;
   flex-wrap: wrap;
+  font-family: Mulish;
   color: rgb(255, 255, 255, 0.6);
   margin: 0;
   padding: 0;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 img {
   margin: 0;
-  border-radius: 16px;
 }
 
 h4:hover {
@@ -88,6 +98,6 @@ Main {
     font-size: 16px;
   }
   h3 {
-      font-size: 12px;
+    font-size: 14px;
   }
 }

@@ -1,23 +1,23 @@
-.Contact {
+.contact {
     align-items: center;
     display: flex;
     flex-direction: row;
 }
 
-.ContactContent {
+.contact-content {
     width: 100%;
 }
 
-.ContactDescription {
+.contact-description {
     margin-bottom: 16px;
     margin-top: 16px;
 }
 
-.Contact h2 {
+.contact h2 {
     color: white;
 }
 
-.Icon {
+.icon {
     border-radius: 0px;
     margin-right: 8px;
     width: 24px;
