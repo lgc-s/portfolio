@@ -9,8 +9,7 @@
 
 .logo {
     user-select: none;
-    width: 192px;
-    height: 44px;
+    height: 48px;
 }
 
 @media (max-width: 768px) {
@@ -20,7 +19,6 @@
     }
     .logo {
         margin-bottom: 12px;
-        width: 144px;
-        height: 33px;
+        height: 36px;
     }
 }

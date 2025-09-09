@@ -2,7 +2,7 @@ import "./Contact.css"
 import Background from "../background/Background"
 import Box from "../box/Box"
 import github from "../../images/github.png"
-import gmail from "../../images/gmail.png"
+import email from "../../images/email.png"
 import Infobox from "../infobox/Infobox"
 import linkedin from "../../images/linkedin.png"
 import whatsapp from "../../images/whatsapp.png"
@@ -22,10 +22,10 @@ export default function Contact() {
                             <h2 className="contact-description">To contact me, there are those options available to message, you can freely choose from any of those despite the recommendations as I'm aware of all of them</h2>
                             <div>
                                 <div className="contact">
-                                    <img src={gmail} alt="gmail" className="icon"/><h2><a href="https://mail.google.com/mail/?view=cm&fs=1&to=luisguilhermecs3@gmail.com&su=Contato+para+LGC-S&body=Digite+sua+mensagem+aqui." target="_blank" rel="noreferrer">Gmail</a></h2>
+                                    <img src={email} alt="e-mail" className="icon"/><h2><a href="https://mail.google.com/mail/?view=cm&fs=1&to=luisguilhermecs3@gmail.com&su=Contato+para+LGC-S&body=Digite+sua+mensagem+aqui." target="_blank" rel="noreferrer">E-mail</a></h2>
                                 </div>
                                 <Infobox>
-                                    <h3>Use the Gmail if this is an important message or to send a proposal for me</h3>
+                                    <h3>Use the E-mail if this is an important message or to send a proposal for me</h3>
                                 </Infobox>
                             </div>
                             <div>
@@ -46,7 +46,7 @@ export default function Contact() {
                             </div>
                             <div>
                                 <div className="contact">
-                                    <img src={whatsapp} alt="whatsapp" className="icon"/><h2><a href="https://wa.me/558197278307" target="_blank" rel="noreferrer">Whatsapp</a></h2>
+                                    <img src={whatsapp} alt="whatsapp" className="icon"/><h2><a href="https://wa.me/558197278307" target="_blank" rel="noreferrer">WhatsApp</a></h2>
                                 </div>
                                 <Infobox>
                                     <h3>Use the WhatsApp if you want to message me on a personal basis</h3>
@@ -67,10 +67,10 @@ export default function Contact() {
                             <h2 className="contact-description">Para entrar em contato comigo, existem essas opções disponíveis para mensagem, você pode escolher livremente qualquer uma delas, apesar das recomendações, pois estou ciente de todas elas</h2>
                             <div>
                                 <div className="contact">
-                                    <img src={gmail} alt="gmail" className="icon"/><h2><a href="https://mail.google.com/mail/?view=cm&fs=1&to=luisguilhermecs3@gmail.com&su=Contato+para+LGCS&body=Digite+sua+mensagem+aqui." target="_blank" rel="noreferrer">Gmail</a></h2>
+                                    <img src={email} alt="e-mail" className="icon"/><h2><a href="https://mail.google.com/mail/?view=cm&fs=1&to=luisguilhermecs3@gmail.com&su=Contato+para+LGCS&body=Digite+sua+mensagem+aqui." target="_blank" rel="noreferrer">E-mail</a></h2>
                                 </div>
                                 <Infobox>
-                                    <h3>Use o Gmail se esta for uma mensagem importante ou para enviar uma proposta para mim</h3>
+                                    <h3>Use o E-mail se esta for uma mensagem importante ou para enviar uma proposta para mim</h3>
                                 </Infobox>
                             </div>
                             <div>
@@ -91,7 +91,7 @@ export default function Contact() {
                             </div>
                             <div>
                                 <div className="contact">
-                                    <img src={whatsapp} alt="whatsapp" className="icon"/><h2><a href="https://wa.me/558197278307" target="_blank" rel="noreferrer">Whatsapp</a></h2>
+                                    <img src={whatsapp} alt="whatsapp" className="icon"/><h2><a href="https://wa.me/558197278307" target="_blank" rel="noreferrer">WhatsApp</a></h2>
                                 </div>
                                 <Infobox>
                                     <h3>Use o WhatsApp se quiser me enviar uma mensagem pessoal</h3>

@@ -1,7 +1,6 @@
 import "./Experiences.css"
 import Background from "../background/Background"
 import Box from "../box/Box"
-import ete from "../../images/ete.png"
 import Infobox from "../infobox/Infobox"
 import { useLanguage } from "../languages/Languages";
 
@@ -14,12 +13,11 @@ export default function Experiences() {
             <div id="experiences">
                 <Background bg="img-experiences">
                     <Box>
-                        <div className="experiences-contant">
+                        <div className="experiences-content">
                             <h1>Experiences</h1>
                             <div>
                                 <div className="exp-box">
                                     <div className="exp-container">
-                                        <img src={ete} alt="ete" className="experiences-image"/>
                                         <div className="exp-title">
                                             <h2>Technician at Game Development / High School</h2>
                                             <h3>January 2022 - December 2022, ETE Cícero Dias, Recife, Pernambuco, Brazil.</h3>
@@ -33,7 +31,6 @@ export default function Experiences() {
                                 </div>
                                 <div className="exp-box">
                                     <div className="exp-container">
-                                        <img src={ete} alt="ete" className="experiences-image"/>
                                         <div className="exp-title">
                                             <h2>Technician at System Development / Post-High School</h2>
                                             <h3>August 2023 - December 2024, ETE Cícero Dias, Recife, Pernambuco, Brazil.</h3>
@@ -61,7 +58,6 @@ export default function Experiences() {
                             <div>
                                 <div className="exp-box">
                                     <div className="exp-container">
-                                        <img src={ete} alt="ete" className="experiences-image"/>
                                         <div className="exp-title">
                                             <h2>Técnico em Desenvolvimento de Jogos / Ensino Médio</h2>
                                             <h3>Janeiro de 2022 - Dezembro de 2022, ETE Cícero Dias, Recife, Pernambuco, Brasil.</h3>
@@ -75,7 +71,6 @@ export default function Experiences() {
                                 </div>
                                 <div className="exp-box">
                                     <div className="exp-container">
-                                        <img src={ete} alt="ete" className="experiences-image"/>
                                         <div className="exp-title">
                                             <h2>Técnico de Desenvolvimento de Sistemas / Ensino Subsequente</h2>
                                             <h3>Agosto de 2023 - Dezembro de 2024, ETE Cícero Dias, Recife, Pernambuco, Brasil.</h3>
