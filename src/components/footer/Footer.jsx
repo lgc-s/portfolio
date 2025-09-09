@@ -10,7 +10,7 @@ export default function Footer() {
         return (
             <div id="top" className="footer">
                 <Logo className='logo'/>
-                <h3 className="footer-text">Website made by myself - 2024-2025</h3>
+                <h3 className="footer-text">Website made by myself ©2025</h3>
             </div>
         )
     }
@@ -18,7 +18,7 @@ export default function Footer() {
         return (
             <div id="top" className="footer">
                 <Logo className='logo'/>
-                <h3 className="footer-text">Site feito por mim - 2024-2025</h3>
+                <h3 className="footer-text">Site feito por mim ©2025</h3>
             </div>
         )
     }
