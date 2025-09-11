@@ -10,3 +10,9 @@
 .footer-text {
     margin: 16px 8px 0px 8px;
 }
+
+@media (max-width: 768px) {
+    .footer-text {
+        margin: 0px 8px 16px 8px;
+    }
+}
