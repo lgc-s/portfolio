@@ -22,7 +22,7 @@ export default function Contact() {
                             <h2 className="contact-description">To contact me, there are those options available to message, you can freely choose from any of those despite the recommendations as I'm aware of all of them</h2>
                             <div>
                                 <div className="contact">
-                                    <img src={email} alt="e-mail" className="icon"/><h2><a href="https://mail.google.com/mail/?view=cm&fs=1&to=luisguilhermecs3@gmail.com&su=Contato+para+LGC-S&body=Digite+sua+mensagem+aqui." target="_blank" rel="noreferrer">E-mail</a></h2>
+                                    <img src={email} alt="e-mail" className="icon"/><h2><a href="https://mail.google.com/mail/?view=cm&fs=1&to=luisguilhermecs3@gmail.com&su=Contact+for+LGC-S&body=Write+your+message+here." target="_blank" rel="noreferrer">E-mail</a></h2>
                                 </div>
                                 <Infobox>
                                     <h3>Use the E-mail if this is an important message or to send a proposal for me</h3>
