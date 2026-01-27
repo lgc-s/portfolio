@@ -22,7 +22,7 @@ export default function Contact() {
                             <h2 className="contact-description">To contact me, there are those options available to message, you can freely choose from any of those despite the recommendations as I'm aware of all of them</h2>
                             <div>
                                 <div className="contact">
-                                    <img src={email} alt="e-mail" className="icon"/><h2><a href="https://mail.google.com/mail/?view=cm&fs=1&to=luisguilhermecs3@gmail.com&su=Contact+for+LGC-S&body=Write+your+message+here." target="_blank" rel="noreferrer">E-mail</a></h2>
+                                    <img loading="lazy" src={email} alt="e-mail" className="icon"/><h2><a href="https://mail.google.com/mail/?view=cm&fs=1&to=luisguilhermecs3@gmail.com&su=Contact+for+LGC-S&body=Write+your+message+here." target="_blank" rel="noreferrer">E-mail</a></h2>
                                 </div>
                                 <Infobox>
                                     <h3>Use the E-mail if this is an important message or to send a proposal for me</h3>
@@ -30,7 +30,7 @@ export default function Contact() {
                             </div>
                             <div>
                                 <div className="contact">
-                                    <img src={linkedin} alt="linkedin" className="icon"/><h2><a href="https://www.linkedin.com/in/lgc-s/" target="_blank" rel="noreferrer">Linkedin</a></h2>
+                                    <img loading="lazy" src={linkedin} alt="linkedin" className="icon"/><h2><a href="https://www.linkedin.com/in/lgc-s/" target="_blank" rel="noreferrer">Linkedin</a></h2>
                                 </div>
                                 <Infobox>
                                     <h3>Use the Linkedin if you want to discuss professional subjects.</h3>
@@ -38,7 +38,7 @@ export default function Contact() {
                             </div>
                             <div>
                                 <div className="contact">
-                                    <img src={github} alt="github" className="icon"/><h2><a href="https://github.com/lgc-s" target="_blank" rel="noreferrer">GitHub</a></h2>
+                                    <img loading="lazy" src={github} alt="github" className="icon"/><h2><a href="https://github.com/lgc-s" target="_blank" rel="noreferrer">GitHub</a></h2>
                                 </div>
                                 <Infobox>
                                     <h3>Use the GitHub if you want to discuss about technical issues or you're help wanted on Front-End Development</h3>
@@ -46,7 +46,7 @@ export default function Contact() {
                             </div>
                             <div>
                                 <div className="contact">
-                                    <img src={whatsapp} alt="whatsapp" className="icon"/><h2><a href="https://wa.me/558197278307" target="_blank" rel="noreferrer">WhatsApp</a></h2>
+                                    <img loading="lazy" src={whatsapp} alt="whatsapp" className="icon"/><h2><a href="https://wa.me/558197278307" target="_blank" rel="noreferrer">WhatsApp</a></h2>
                                 </div>
                                 <Infobox>
                                     <h3>Use the WhatsApp if you want to message me on a personal basis</h3>
@@ -67,7 +67,7 @@ export default function Contact() {
                             <h2 className="contact-description">Para entrar em contato comigo, existem essas opções disponíveis para mensagem, você pode escolher livremente qualquer uma delas, apesar das recomendações, pois estou ciente de todas elas</h2>
                             <div>
                                 <div className="contact">
-                                    <img src={email} alt="e-mail" className="icon"/><h2><a href="https://mail.google.com/mail/?view=cm&fs=1&to=luisguilhermecs3@gmail.com&su=Contato+para+LGCS&body=Digite+sua+mensagem+aqui." target="_blank" rel="noreferrer">E-mail</a></h2>
+                                    <img loading="lazy" src={email} alt="e-mail" className="icon"/><h2><a href="https://mail.google.com/mail/?view=cm&fs=1&to=luisguilhermecs3@gmail.com&su=Contato+para+LGCS&body=Digite+sua+mensagem+aqui." target="_blank" rel="noreferrer">E-mail</a></h2>
                                 </div>
                                 <Infobox>
                                     <h3>Use o E-mail se esta for uma mensagem importante ou para enviar uma proposta para mim</h3>
@@ -75,7 +75,7 @@ export default function Contact() {
                             </div>
                             <div>
                                 <div className="contact">
-                                    <img src={linkedin} alt="linkedin" className="icon"/><h2><a href="https://www.linkedin.com/in/lgc-s/" target="_blank" rel="noreferrer">Linkedin</a></h2>
+                                    <img loading="lazy" src={linkedin} alt="linkedin" className="icon"/><h2><a href="https://www.linkedin.com/in/lgc-s/" target="_blank" rel="noreferrer">Linkedin</a></h2>
                                 </div>
                                 <Infobox>
                                     <h3>Use o Linkedin se quiser discutir assuntos profissionais.</h3>
@@ -83,7 +83,7 @@ export default function Contact() {
                             </div>
                             <div>
                                 <div className="contact">
-                                    <img src={github} alt="github" className="icon"/><h2><a href="https://github.com/lgc-s" target="_blank" rel="noreferrer">GitHub</a></h2>
+                                    <img loading="lazy" src={github} alt="github" className="icon"/><h2><a href="https://github.com/lgc-s" target="_blank" rel="noreferrer">GitHub</a></h2>
                                 </div>
                                 <Infobox>
                                     <h3>Use o GitHub se quiser discutir sobre questões técnicas ou se precisar de ajuda no Desenvolvimento Front-End</h3>
@@ -91,7 +91,7 @@ export default function Contact() {
                             </div>
                             <div>
                                 <div className="contact">
-                                    <img src={whatsapp} alt="whatsapp" className="icon"/><h2><a href="https://wa.me/558197278307" target="_blank" rel="noreferrer">WhatsApp</a></h2>
+                                    <img loading="lazy" src={whatsapp} alt="whatsapp" className="icon"/><h2><a href="https://wa.me/558197278307" target="_blank" rel="noreferrer">WhatsApp</a></h2>
                                 </div>
                                 <Infobox>
                                     <h3>Use o WhatsApp se quiser me enviar uma mensagem pessoal</h3>

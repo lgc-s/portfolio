@@ -30,7 +30,7 @@ export default function Background(props) {
         case "skills":
             BgImg = Skills
             break;
-        case "experiences":
+        case "education":
             BgImg = Education
             break;
         case "projects":
