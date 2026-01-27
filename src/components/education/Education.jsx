@@ -19,19 +19,6 @@ export default function Education() {
                                 <div className="edu-box">
                                     <div className="edu-container">
                                         <div className="edu-title">
-                                            <h2>Technician at Game Development / High School</h2>
-                                            <h3>January 2022 - December 2022, ETE Cícero Dias, Recife, Pernambuco, Brazil.</h3>
-                                        </div>
-                                        <div className="edu-info">
-                                            <Infobox><h4>Here is where I learned about the Unity essentials.</h4></Infobox>
-                                            <Infobox><h4>My first steps in Web Design were there.</h4></Infobox>
-                                            <Infobox><h4>Beyond this experience, I also got three additional courses in Game Design, 3D Model Reading and .html Basics.</h4></Infobox>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="edu-box">
-                                    <div className="edu-container">
-                                        <div className="edu-title">
                                             <h2>Technician at System Development / Post-High School</h2>
                                             <h3>August 2023 - December 2024, ETE Cícero Dias, Recife, Pernambuco, Brazil.</h3>
                                         </div>
@@ -42,6 +29,19 @@ export default function Education() {
                                         </div>
                                     </div>
                                 </div>  
+                                <div className="edu-box">
+                                    <div className="edu-container">
+                                        <div className="edu-title">
+                                            <h2>Technician at Game Development / High School</h2>
+                                            <h3>January 2022 - December 2022, ETE Cícero Dias, Recife, Pernambuco, Brazil.</h3>
+                                        </div>
+                                        <div className="edu-info">
+                                            <Infobox><h4>Here is where I learned about the Unity essentials.</h4></Infobox>
+                                            <Infobox><h4>My first steps in Web Design were there.</h4></Infobox>
+                                            <Infobox><h4>Beyond this experience, I also got three additional courses in Game Design, 3D Model Reading and .html Basics.</h4></Infobox>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </Box>
@@ -59,6 +59,19 @@ export default function Education() {
                                 <div className="edu-box">
                                     <div className="edu-container">
                                         <div className="edu-title">
+                                            <h2>Técnico de Desenvolvimento de Sistemas / Ensino Subsequente</h2>
+                                            <h3>Agosto de 2023 - Dezembro de 2024, ETE Cícero Dias, Recife, Pernambuco, Brasil.</h3>
+                                        </div>
+                                        <div className="edu-info">
+                                            <Infobox><h4>Foi aqui que fiquei preparado conseguir meu primeiro emprego.</h4></Infobox>
+                                            <Infobox><h4>Aprendi SQL, Business Intelligence, Planejamento de Projetos e Programação Java.</h4></Infobox>
+                                            <Infobox><h4>Recebi a certificação em dezembro de 2024.</h4></Infobox>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="edu-box">
+                                    <div className="edu-container">
+                                        <div className="edu-title">
                                             <h2>Técnico em Desenvolvimento de Jogos / Ensino Médio</h2>
                                             <h3>Janeiro de 2022 - Dezembro de 2022, ETE Cícero Dias, Recife, Pernambuco, Brasil.</h3>
                                         </div>
@@ -69,19 +82,6 @@ export default function Education() {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="edu-box">
-                                    <div className="edu-container">
-                                        <div className="edu-title">
-                                            <h2>Técnico de Desenvolvimento de Sistemas / Ensino Subsequente</h2>
-                                            <h3>Agosto de 2023 - Dezembro de 2024, ETE Cícero Dias, Recife, Pernambuco, Brasil.</h3>
-                                        </div>
-                                        <div className="edu-info">
-                                            <Infobox><h4>Foi aqui que fiquei preparado conseguir meu primeiro emprego.</h4></Infobox>
-                                            <Infobox><h4>Aprendi SQL, Business Intelligence, Planejamento de Projetos e Programação Java.</h4></Infobox>
-                                            <Infobox><h4>Recebi a certificação em dezembro de 2024.</h4></Infobox>
-                                        </div>
-                                    </div>
-                                </div>  
                             </div>
                         </div>
                     </Box>

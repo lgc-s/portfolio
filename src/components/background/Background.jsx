@@ -3,6 +3,7 @@ import About from "../../images/about.jpg"
 import Contact from "../../images/contact.jpg"
 import Education from "../../images/education.jpg"
 import Home from "../../images/home.jpg"
+import Professional from "../../images/professional.jpg"
 import Projects from "../../images/projects.jpg"
 import Skills from "../../images/skills.jpg"
 
@@ -32,6 +33,9 @@ export default function Background(props) {
             break;
         case "education":
             BgImg = Education
+            break;
+        case "professional":
+            BgImg = Professional
             break;
         case "projects":
             BgImg = Projects

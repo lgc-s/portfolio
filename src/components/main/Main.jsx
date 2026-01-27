@@ -6,6 +6,7 @@ import Home from "../home/Home"
 import Projects from "../projects/Projects"
 import Skills from "../skills/Skills"
 import TopAnchor from "../top-anchor/TopAnchor"
+import Professional from "../professional/Professional"
 
 export default function Main() {
     
@@ -15,6 +16,7 @@ export default function Main() {
             <AboutMe/>
             <Skills/>
             <Education/>
+            <Professional/>
             <Projects/>
             <Contact/>
             <TopAnchor/>

@@ -42,6 +42,14 @@ export default function MenuButton(props) {
                 </button>
             )
 
+        case "Professional":
+        case "Profissional":
+            return (
+                <button className="menu-button" onClick={() => document.getElementById("professional").scrollIntoView({ behavior: "smooth" })}>
+                    <h2>{props.name}</h2>
+                </button>
+            )
+
         case "Projects":
         case "Projetos":
             return (

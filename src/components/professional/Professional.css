@@ -1,41 +1,41 @@
-.edu-box {
+.pro-box {
     margin: 32px;
 }
 
-.edu-container {
+.pro-container {
     align-items: center;
     display: flex;
     flex-direction: column;
 }
 
-.edu-container h2 {
+.pro-container h2 {
     color: white;
 }
 
-.education-content {
+.professional-content {
     width: 100%;
 }
 
-.education-image {
+.professional-image {
     margin: 16px 8px 8px 8px;
     width: 128px;
 }
 
-.edu-info {
+.pro-info {
     width: 40%;
 }
 
-.edu-title {
+.pro-title {
     align-items: center;
     display: flex;
     flex-direction: column;
 }
 
 @media (max-width: 768px) {
-    .edu-box {
+    .pro-box {
         margin: 16px;
     }
-    .edu-info {
+    .pro-info {
         width: 100%;
     }
 }
