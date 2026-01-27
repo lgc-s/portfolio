@@ -1,7 +1,7 @@
 import "./Background.css";
 import About from "../../images/about.jpg"
 import Contact from "../../images/contact.jpg"
-import Experiences from "../../images/experiences.jpg"
+import Education from "../../images/education.jpg"
 import Home from "../../images/home.jpg"
 import Projects from "../../images/projects.jpg"
 import Skills from "../../images/skills.jpg"
@@ -31,7 +31,7 @@ export default function Background(props) {
             BgImg = Skills
             break;
         case "experiences":
-            BgImg = Experiences
+            BgImg = Education
             break;
         case "projects":
             BgImg = Projects

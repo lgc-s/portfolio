@@ -34,10 +34,10 @@ export default function MenuButton(props) {
                 </button>
             )
 
-        case "Experiences":
-        case "Experiências":
+        case "Education":
+        case "Formação":
             return (
-                <button className="menu-button" onClick={() => document.getElementById("experiences").scrollIntoView({ behavior: "smooth" })}>
+                <button className="menu-button" onClick={() => document.getElementById("education").scrollIntoView({ behavior: "smooth" })}>
                     <h2>{props.name}</h2>
                 </button>
             )

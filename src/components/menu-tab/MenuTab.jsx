@@ -12,7 +12,7 @@ export default function MenuTab() {
                 <MenuButton name="Home"/>
                 <MenuButton name="About Me"/>
                 <MenuButton name="Skills"/>
-                <MenuButton name="Experiences"/>
+                <MenuButton name="Education"/>
                 <MenuButton name="Projects"/>
                 <MenuButton name="Contact"/>
             </div>
@@ -23,7 +23,7 @@ export default function MenuTab() {
                 <MenuButton name="Início"/>
                 <MenuButton name="Sobre Mim"/>
                 <MenuButton name="Habilidades"/>
-                <MenuButton name="Experiências"/>
+                <MenuButton name="Formação"/>
                 <MenuButton name="Projetos"/>
                 <MenuButton name="Contato"/>
             </div>

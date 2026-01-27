@@ -1,31 +1,31 @@
-.exp-box {
+.edu-box {
     margin: 32px;
 }
 
-.exp-container {
+.edu-container {
     align-items: center;
     display: flex;
     flex-direction: column;
 }
 
-.exp-container h2 {
+.edu-container h2 {
     color: white;
 }
 
-.experiences-content {
+.education-content {
     width: 100%;
 }
 
-.experiences-image {
+.education-image {
     margin: 16px 8px 8px 8px;
     width: 128px;
 }
 
-.exp-info {
+.edu-info {
     width: 40%;
 }
 
-.exp-title {
+.edu-title {
     align-items: center;
     display: flex;
     flex-direction: column;

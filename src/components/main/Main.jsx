@@ -1,7 +1,7 @@
 import "./Main.css"
 import AboutMe from "../about-me/AboutMe"
 import Contact from "../contact/Contact"
-import Experiences from "../experiences/Experiences"
+import Education from "../education/Education"
 import Home from "../home/Home"
 import Projects from "../projects/Projects"
 import Skills from "../skills/Skills"
@@ -14,7 +14,7 @@ export default function Main() {
             <Home/>
             <AboutMe/>
             <Skills/>
-            <Experiences/>
+            <Education/>
             <Projects/>
             <Contact/>
             <TopAnchor/>
